@@ -1,2 +1,2 @@
 Hello
-<a href="dbSave">save</a>
+<a href="dbSave.php">save</a>
