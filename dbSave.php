@@ -9,6 +9,7 @@
     
   
     if($conn == true){
+        echo"hello";
         $sql_macaddr = "SELECT * FROM tbJaringan WHERE macAddress LIKE '$macAddress'";
         $macaddr_check = mysqli_query($conn, $sql_macaddr);
         if($macAddress == ""){
