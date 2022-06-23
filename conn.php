@@ -1,8 +1,8 @@
 <?php
-    $db_name = "epiz_31823812_percobaan";
-    $username = "epiz_31823812";
-    $password = "8x2KundcrFOlKH";
-    $servename = "sql302.epizy.com";
+    $db_name = "sql6501652";
+    $username = "sql6501652";
+    $password = "nCmQkgX2LM";
+    $servename = "sql6.freesqldatabase.com";
     $conn = mysqli_connect($servename ,$username ,$password ,$db_name );
 
 ?>
